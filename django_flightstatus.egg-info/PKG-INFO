@@ -1,0 +1,35 @@
+Metadata-Version: 1.1
+Name: django-flightstatus
+Version: 0.1
+Summary: An implementation of flightstatus api from flightstat
+Home-page: https://www.bnblord.com/
+Author: BNBLORD
+Author-email: q.mortier@bnblord.com
+License: INTERNAL License
+Description: ============
+        Flight status
+        =============
+        
+        Flight status is a simple api call to FlightStat REST to retrieve a flight status.
+        
+        Quick start
+        -----------
+        
+        1. Add "flightstatus" to your INSTALLED_APPS setting like this::
+        
+            INSTALLED_APPS = [
+                ...
+                'flightstatus',
+            ]
+        
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Framework :: Django :: 1.8.18
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: INTERNAL License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
