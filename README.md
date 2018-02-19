@@ -16,7 +16,7 @@ INSTALLED_APPS = [
  2. Add `FLIGHTSTATUS_APP_ID` and `FLIGHTSTATUS_APP_KEY` to your Django `settings.py`:
 
 ```
-FLIGHTSTATUS_APP_IP = "your flighstatus app id"
+FLIGHTSTATUS_APP_ID = "your flighstatus app id"
 FLIGHTSTATUS_APP_KEY = "your flighstatus app key"
 ```
 
